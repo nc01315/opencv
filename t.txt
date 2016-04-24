@@ -1,0 +1,27 @@
+Adlm
+AndroidStudioProjects
+Applications
+Comsol52_SSQ.lic
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Library
+Movies
+Music
+Pictures
+Public
+PycharmProjects
+asteroids
+get-pip.py
+git
+git-completion.bash
+git-prompt.sh
+license.lic
+license.lic 2
+opencv
+t.txt
+xgen
+百度云同步盘
+dsfgsdf
+
